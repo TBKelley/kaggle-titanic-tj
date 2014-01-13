@@ -1,4 +1,12 @@
-install.packages('data.table')
+install.not.exists <- function(x)
+{
+  if (!require(x, character.only = TRUE))
+  {
+    install.packages(x, dep=TRUE)
+  }
+}
+install.not.exists('data.table')
+
 # Install Rtools before running this
 install.packages("devtools")
 library("devtools")
