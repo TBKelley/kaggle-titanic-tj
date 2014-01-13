@@ -1,3 +1,4 @@
+install.packages('data.table')
 # Install Rtools before running this
 install.packages("devtools")
 library("devtools")
