@@ -1,0 +1,2 @@
+plotly_info <- list(username = '<username>',
+                    key = '<api_key>')
