@@ -216,6 +216,5 @@ pip-log.txt
 /plots
 /code/r/*.Rhistory
 /code/python/*.pyproj
-/code/python/*
 .Rproj.user
 accounts.R
