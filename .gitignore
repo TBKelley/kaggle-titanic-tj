@@ -218,3 +218,5 @@ pip-log.txt
 /code/python/*.pyproj
 .Rproj.user
 accounts.R
+/code/r/writing/cache
+/code/r/writing/figure
