@@ -220,3 +220,5 @@ pip-log.txt
 accounts.R
 /code/r/writing/cache
 /code/r/writing/figure
+/code/python/notebooks/parallel_ml_tutorial-master
+/code/python/notebooks/.ipynb_checkpoints
